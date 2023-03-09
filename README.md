@@ -1,4 +1,4 @@
-# - MY REPO -
+# - MY REPOsitory -
 
 <div align="center">
 
